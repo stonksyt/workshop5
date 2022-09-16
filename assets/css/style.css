@@ -1,0 +1,513 @@
+#muur {
+    width: 500px;
+    height: 270px;
+    background-color: #d9d9d9
+}
+#steen1{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen2{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen3{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen4{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen5{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.rij{
+    display: flex;
+
+}
+#steen6{
+    background-color: orange;
+    width:40px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen7{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen8{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen9{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen10{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+#steen11{
+    background-color: orange;
+    width:40px;
+    height:20px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.rij {
+    display: flex;
+}
+#steen12{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen13{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen14{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen15{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen16{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.rij{
+    display: flex;
+}
+#steen17{
+    background-color: orange;
+    width:40px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen18{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen19{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen20{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen22{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+#steen23{
+    background-color: orange;
+    width:40px;
+    height:20px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.rij {
+    display:flex;
+}
+#steen24{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen25{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen26{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen27{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen28{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.rij {
+    display:flex;
+}
+#steen29{
+    background-color: orange;
+    width:40px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen30{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen31{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen32{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen33{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+#steen34{
+    background-color: orange;
+    width:40px;
+    height:20px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.rij {
+    display:flex;
+}
+#steen35{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen36{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen37{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen38{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen39{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.rij{
+    display: flex;
+
+}
+#steen40{
+    background-color: orange;
+    width:40px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen41{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen42{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen43{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen44{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+#steen45{
+    background-color: orange;
+    width:40px;
+    height:20px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.rij {
+    display: flex;
+}
+#steen46{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen47{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen48{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen49{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen50{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.rij{
+    display: flex;
+}
+#steen51{
+    background-color: orange;
+    width:50px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen52{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen53{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen54{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen55{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-right: 5px;
+
+}
+#steen56{
+    background-color: orange;
+    width:40px;
+    height:20px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.rij{
+    display: flex;
+
+}
+#steen57{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen58{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen59{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen60{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#steen61{
+    background-color: orange;
+    width:100px;
+    height:20px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.rij{
+    display: flex;
+}
